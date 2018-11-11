@@ -12,7 +12,7 @@
 
 6.- Doble click en protocolo de internet versión 4 (TCP/IPv4)
 
-<image src="file:///home/bryan/Im%C3%A1genes/Captura%20de%20pantalla%20-2018-11-11%2023-12-11.png">
+<image src="http://i67.tinypic.com/i41gue.png">
 
 
 Fedora
