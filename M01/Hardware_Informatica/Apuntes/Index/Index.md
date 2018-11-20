@@ -72,3 +72,4 @@
 33. Práctica fdisk desde archivo
     - MBR
     - GPT
+ 
